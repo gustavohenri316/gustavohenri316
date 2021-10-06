@@ -5,7 +5,7 @@ Sou estudante de Ciências da Computação
 do 2° ano pela universidade UNA-BETIM
 
 Possuo conhecimento em:
-Linguagem de programação JavaScript, Python e C#.
+Linguagem de programação JavaScript, React.Js, React.Native, Flutter e .NET.
 Conhecimento em Design UI/UX
 
 - 🔭    Hoje trabalho com front-end
