@@ -44,7 +44,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="100px" width="100px" alt="A.R Phoenix" src="cdftv.svg"/>](https://arphoenix.com.br/wp-content/uploads/2021/06/arp_logo.png/)
+<img align="left" height="100px" width="100px" alt="A.R Phoenix" src="https://arphoenix.com.br/wp-content/uploads/2021/06/arp_logo.png/"/>https://arphoenix.com.br/wp-content/uploads/2021/06/arp_logo.png/)
 
 [**A.R Phoenix**](https://arphoenix.com.br/br/) \
  Part-time • 1 meses\
