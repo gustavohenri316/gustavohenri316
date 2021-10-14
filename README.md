@@ -1,7 +1,7 @@
 <h1> Olá, tudo bem? </h1>
 <h2> Seja muito bem vindo ao meu perfil! </h2>
 
-<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> 
   🌎 Olá, meu nome é Gustavo Henrique. Sou <strong>Desenvolvedor de Front-End</strong>
