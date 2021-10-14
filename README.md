@@ -1,7 +1,7 @@
 <h1> Olá, tudo bem? </h1>
 <h2> Seja muito bem vindo ao meu perfil! </h2>
 
-<img align="right" height="270px" width="270px" alt="GIF" src="coding.gif">
+<img align="right" height="270px" width="300px" alt="GIF" src="coding.gif">
 
 <p align="left"> 
   🌎 Olá, meu nome é Gustavo Henrique. Sou <strong>Desenvolvedor de Front-End</strong>
