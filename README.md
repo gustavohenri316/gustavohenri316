@@ -1,6 +1,7 @@
-<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
+<h1> Olá, tudo bem? </h1>
+<h2> Seja muito bem vindo ao meu perfil! </h2>
 
-<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
 
 <p align="left"> 
   🌎 Olá, meu nome é Gustavo Henrique. Sou <strong>Desenvolvedor de Front-End</strong>
@@ -16,9 +17,10 @@
 
 <p align="left">
   💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
-</p>
+</p> 
+ <div> 
 
-<p align="left">
+  <p align="left">
   <a href="https://www.instagram.com/_guhcode/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/_guhcode/"/>
   </a>
@@ -40,18 +42,11 @@
   
   
 </p>
-
-### Experiência de trabalho
-Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
-
-<img align="left" height="100px" width="100px" alt="A.R Phoenix" src="https://arphoenix.com.br/wp-content/uploads/2021/06/arp_logo.png/"/>https://arphoenix.com.br/wp-content/uploads/2021/06/arp_logo.png/)
-
-[**A.R Phoenix**](https://arphoenix.com.br/br/) \
- Part-time • 1 meses\
-Serviços: `Front-End`
-<br/>
-
-<div>
+ 
+</div>
+ 
+ 
+ <div>
   <a href="https://github.com/gustavohenri316">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenri316&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenri316&layout=compact&langs_count=7&theme=dark"/>
@@ -68,5 +63,4 @@ Serviços: `Front-End`
 
   #
   
- <div> 
-
+ 
