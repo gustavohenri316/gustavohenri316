@@ -32,9 +32,7 @@
   <a href="https://api.whatsapp.com/send?phone=5531993358612&text=Olá! vim pelo GitHub" alt="whatsapp">
     <img src="https://img.shields.io/badge/-Whatsapp-1C1C1C?style=for-the-badge&logo=whatsapp&logoColor=00FFFF&link=https://api.whatsapp.com/send?phone=5531993358612&text=Olá! vim pelo GitHub"/>
   </a>
-   <a href="https://api.whatsapp.com/send?phone=5531993358612&text=Olá! vim pelo GitHub" alt="whatsapp">
-    <img src="https://img.shields.io/badge/-Whatsapp-1C1C1C?style=for-the-badge&logo=whatsapp&logoColor=00FFFF&link=https://api.whatsapp.com/send?phone=5531993358612&text=Olá! vim pelo GitHub"/>
-  </a>
+   
   <a href="mailto:gustavohenri316@gmail.com" alt="gmail">
     <img src="https://img.shields.io/badge/-gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF&link=mailto:gustavohenri316@gmail.com"/>
   </a>
