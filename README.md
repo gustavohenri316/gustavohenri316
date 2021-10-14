@@ -1,19 +1,57 @@
-<h1> Olá, tudo bem? </h1>
-<h2> Seja muito bem vindo ao meu perfil! </h2>
+<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
 
-Sou estudante de Ciências da Computação
-do 2° ano pela universidade UNA-BETIM
+<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-Possuo conhecimento em:
-Linguagens de programação JavaScript, React.Js, React.Native, Flutter e .NET.
-Conhecimento em Design UX Design.
+<p align="left"> 
+  🌎 Olá, meu nome é Gustavo Henrique. Sou <strong>Desenvolvedor de Front-End</strong>
+</p>
 
-- 🔭    Hoje trabalho com front-end
-- 🌱    Estudando Ciência da Computação
-- 📫    Email: gustavohenri316@icloud.com
--  https://guhcode.vercel.app/
+<p align="left">
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Flutter, React Native, ReactJS, Typescript e Styled Components.</strong>
+</p>
 
- <div>
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Figma, Adobe Trello, Git e GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/_guhcode/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/_guhcode/"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/gustavo-henrique-gon%C3%A7alves-187463141/" alt="Linkerdin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/gustavo-henrique-gon%C3%A7alves-187463141/"/>
+  </a>
+
+  <a href="https://api.whatsapp.com/send?phone=5531993358612&text=Olá! vim pelo GitHub" alt="whatsapp">
+    <img src="https://img.shields.io/badge/-Whatsapp-1C1C1C?style=for-the-badge&logo=whatsapp&logoColor=00FFFF&link=https://api.whatsapp.com/send?phone=5531993358612&text=Olá! vim pelo GitHub"/>
+  </a>
+   <a href="https://api.whatsapp.com/send?phone=5531993358612&text=Olá! vim pelo GitHub" alt="whatsapp">
+    <img src="https://img.shields.io/badge/-Whatsapp-1C1C1C?style=for-the-badge&logo=whatsapp&logoColor=00FFFF&link=https://api.whatsapp.com/send?phone=5531993358612&text=Olá! vim pelo GitHub"/>
+  </a>
+  <a href="mailto:gustavohenri316@gmail.com" alt="gmail">
+    <img src="https://img.shields.io/badge/-gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF&link=mailto:gustavohenri316@gmail.com"/>
+  </a>
+  
+  
+  
+</p>
+
+### Experiência de trabalho
+Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="100px" width="100px" alt="A.R Phoenix" src="cdftv.svg"/>](https://arphoenix.com.br/wp-content/uploads/2021/06/arp_logo.png/)
+
+[**A.R Phoenix**](https://arphoenix.com.br/br/) \
+ Part-time • 1 meses\
+Serviços: `Front-End`
+<br/>
+
+<div>
   <a href="https://github.com/gustavohenri316">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenri316&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenri316&layout=compact&langs_count=7&theme=dark"/>
@@ -32,11 +70,3 @@ Conhecimento em Design UX Design.
   
  <div> 
 
-  <a href="https://www.instagram.com/_guhcode/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavohenri316@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-henrique-gon%C3%A7alves-187463141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://api.whatsapp.com/send?phone=5531993358612&text=Olá! vim pelo GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-   
-
- 
-</div>
