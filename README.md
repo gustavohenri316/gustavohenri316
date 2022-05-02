@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Flutter, Swift, React Native, ReactJS, Typescript, NodeJS e Styled Components.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Flutter, Swift, React Native, ReactJS, Typescript, NodeJS , Tailwind CSS e Styled Components.</strong>
 </p>
 
 <p align="left">
